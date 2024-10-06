@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Задача 1");
+        System.out.println("Задача 1");
 
         byte a = 100;
         short b = 10_000;
@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Задача 3");
 
         byte studentsLudmila = 23;
-        byte studentsAnna = 27;;
+        byte studentsAnna = 27;
         byte studentsEkaterina = 30;
         short sheetsOfPaperAll = 480;
 
@@ -99,7 +99,7 @@ public class Main {
         int oldSalaryKristinaInOneYear = oldSalaryKristinaInOneMonth * 12;
 
         double newSalaryMashaInOneMonth = oldSalaryMashaInOneMonth * 1.1;
-        double newSalaryDenisInOneMonth = oldSalaryDenisInOneMonth * 1.1;;
+        double newSalaryDenisInOneMonth = oldSalaryDenisInOneMonth * 1.1;
         double newSalaryKristinaInOneMonth = oldSalaryKristinaInOneMonth * 1.1;
 
         int newSalaryMashaInOneYear = (int) (newSalaryMashaInOneMonth * 12);
